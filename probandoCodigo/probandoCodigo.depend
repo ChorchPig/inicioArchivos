@@ -1,17 +1,14 @@
 # depslib dependency file v1.0
-1655312436 source:d:\malinarich sliba lucas\probandocodigo\main.c
+1655827456 source:c:\users\lucas\onedrive\escritorio\proyectos c\probandocodigo\funciones.c
 	<stdio.h>
-	<locale.h>
 	<stdlib.h>
-	<string.h>
 	"prototipos.h"
 
-1655310829 d:\malinarich sliba lucas\probandocodigo\prototipos.h
+1655576867 c:\users\lucas\onedrive\escritorio\proyectos c\probandocodigo\prototipos.h
 
-1655312419 source:d:\malinarich sliba lucas\probandocodigo\funciones.c
+1655828603 source:c:\users\lucas\onedrive\escritorio\proyectos c\probandocodigo\main.c
 	<stdio.h>
-	<locale.h>
 	<stdlib.h>
-	<string.h>
+	<locale.h>
 	"prototipos.h"
 
