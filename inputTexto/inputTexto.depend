@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1657560786 source:c:\users\lucas\onedrive\escritorio\proyectos c\inicioarchivos\inputtexto\funciones.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1657560786 c:\users\lucas\onedrive\escritorio\proyectos c\inicioarchivos\inputtexto\prototipos.h
+
+1661445208 source:c:\users\lucas\onedrive\escritorio\proyectos c\inicioarchivos\inputtexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"prototipos.h"
+
